@@ -13,6 +13,11 @@ For a more complete description of this module, you can read the Wiki docs of **
 * The [Asset Pipeline](https://github.com/efficiently/larasset/wiki/Asset-pipeline) Guide
 * [Working with Ajax/JavaScript in Laravel](https://github.com/efficiently/larasset/wiki/Working-with-JavaScript-and-Larasset) Guide
 
+Updates
+-------
+
+1.2.2 - Dependency update for node 11
+
 Credits
 -------
 
